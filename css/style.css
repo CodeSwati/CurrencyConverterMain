@@ -10,7 +10,7 @@ body{
     height: 60px;font-size: 15px;font-weight: 600;
 }
 .main-div{
-    background-image: linear-gradient(to left, #040e43,#0a146e) ;padding-top:70px;
+    background-image: linear-gradient(to left, #040e43,#0a146e) ;padding-top:90px;
 }
 .main-div h1{
     color: white;
